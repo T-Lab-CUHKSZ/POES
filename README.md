@@ -1,5 +1,5 @@
 <h2 align="center">
-  Select Smarter, Not More? Prompt-Aware Evaluation Scheduling with Submodular Guarantees
+  <a href="https://arxiv.org/abs/2604.11328">Select Smarter, Not More? Prompt-Aware Evaluation Scheduling with Submodular Guarantees</a>
 </h2>
 
 <h5 align="center">
@@ -8,7 +8,8 @@
 
 <h5 align="center">
 
-[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-blue.svg)](#citation)
+[![arXiv](https://img.shields.io/badge/arXiv-2604.11328-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.11328)
+[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS-2026-blue.svg)](https://arxiv.org/abs/2604.11328)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -16,6 +17,7 @@
 
 ## News
 
+- 🎉 Our paper is accepted to NeurIPS 2026!
 - **[2026.10]** Code released.
 
 ## Why Do We Need POES?
@@ -277,10 +279,13 @@ We are grateful for the following awesome projects:
 If you find this project helpful, please consider citing our work:
 
 ```bibtex
-@inproceedings{liu2026select,
-  title={Select Smarter, Not More? Prompt-Aware Evaluation Scheduling with Submodular Guarantees},
-  author={Liu, Haoyue and Ma, Xiaoyu and Li, Yiwen and Wang, Zhichao and Cui, Shuguang and Tang, Xiaoying},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2026}
+@misc{ma2026selectsmartermorepromptaware,
+      title={Select Smarter, Not More: Prompt-Aware Evaluation Scheduling with Submodular Guarantees}, 
+      author={Xiaoyu Ma and Yiwen Li and Haoyue Liu and Zhichao Wang and Ye Chen and Yongxin Guo and Xiaoying Tang},
+      year={2026},
+      eprint={2604.11328},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2604.11328}, 
 }
 ```
